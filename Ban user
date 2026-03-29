@@ -1,1 +1,10 @@
-
+{
+  "app_status": "on",
+  "force_update": true,
+  "update_message": "New version released. Please update.",
+  "update_link": "https://your-new-apk-link",
+  "banned_users":[
+     "DEV_987654",
+     "DEV_456123"
+  ]
+}
