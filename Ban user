@@ -1,6 +1,6 @@
 {
   "app_status": "on",
-  "force_update": true,
+  "force_update": false,
   "update_message": "New version released. Please update.",
   "update_link": "https://your-new-apk-link",
   "banned_users":[
